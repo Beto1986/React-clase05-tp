@@ -1,3 +1,5 @@
+El ejercicio es un login realizado con hooks de estados. La actividad del login se encuentra en --> https://docs.google.com/document/d/1lr-AjqWvdW43nH4P5cpHQe3pw0Sig1P2wh0HJ_gPUk8/edit.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
